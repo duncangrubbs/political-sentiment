@@ -22,5 +22,5 @@ All of this got us thinking, how do other politicians and world leaders come acr
 
 ![](./blog_res/major.png)
 
-For more Check out the blog post!
+For more Check out the [blog post](https://towardsdatascience.com/understanding-political-twitter-ce3476a38377)!
 
